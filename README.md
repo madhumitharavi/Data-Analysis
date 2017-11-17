@@ -13,4 +13,4 @@
 	$ I have deep interests towards Data Analysis, Data Integration and Visualizations. 
 
 # Tableau Dashboards
-![Oops! Image not displayed](/images/Insights_on_Chlamydia_and_Gonorrhea_data_at_HBH.png)
+![Oops! Image not displayed](/images/Insights_on_Chlamydia_and_Gonorrhea_data_at_HBH.jpg)
