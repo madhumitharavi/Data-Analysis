@@ -12,9 +12,5 @@
 	$ This summer, I had been an System Analysis Intern with The Blue Cross Blue Shield Association and at present, I'm a Business Intelligence Data Analyst Co-Op Intern with my college 	:) 
 	$ I have deep interests towards Data Analysis, Data Integration and Visualizations. 
 
-# Git Tutorial
-![Oops! My Git Tutorial](/images/Ravi-Madhumitha-Week-01-Git-Tutorial.png)
-![Oops! My Git Tutorial Completion Image](/images/Ravi-Madhumitha-Week-01-Git-Tutorial-Code-Academy.png)
-
 # Tableau Dashboards
 ![Oops! Image not displayed](/images/Insights_on_Chlamydia_and_Gonorrhea_data_at_HBH.png)
