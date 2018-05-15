@@ -12,11 +12,6 @@ import contextlib
 
 This script loads the CSV files into SQL Server, executes Txform and Audit scripts.
 
-##sql_connection = pyodbc.connect('Driver={SQL Server};Server=183.82.251.111,49100\SQLExpress;Database = Py_Joha;UID=madhu;PWD=OcM3214$;')
-
-The above mentioned connection is used t access the sql server and the current script uses a local connection.
-Hence, make changes to the connection as needed before executing the script.
-
 We will need to standardize the store procedure execution by taking a backup on all the tables before the script is run as it drops all the existing tables.
 Once the tables have been backed up, files should be placed on the server and UNC path should be provided during execution.
 For Txform and Audot script execution, the database name must e mentioned before the run, for which the store procedures must be available.
@@ -29,9 +24,6 @@ CHANGE THE DATABASE NAME WITHIN THE SCRIPT POST STANDARDIZATION!!!
 
 
 ## OCM_ALLERGIES
-
-
-##sql_connection = pyodbc.connect('Driver={SQL Server};Server=183.82.251.111,49100\SQLExpress;Database = Py_Joha;UID=madhu;PWD=OcM3214$;')
 
 
 
